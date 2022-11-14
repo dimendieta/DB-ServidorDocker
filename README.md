@@ -5,13 +5,15 @@
 
 docker run -d --name dbpsql -e POSTGRES_PASSWORD=admin -p 5432:5432 postgres
 
-![image](https://user-images.githubusercontent.com/91167870/200968462-30b74128-a43a-4e03-921b-ebcf13d1fb52.png)
 
+![image](https://user-images.githubusercontent.com/91167870/200968606-0dff043d-a8f2-40b0-9198-c0b86722323b.png)
                                                        PGadmin
 
 docker run -d --name pgadmin -p 8090:80 -e PGADMIN_DEFAULT_EMAIL=dimendieta.2@sudamericano.edu.ec -e PGADMIN_DEFAULT_PASSWORD=admin dpage/pgadmin4
 
-![image](https://user-images.githubusercontent.com/91167870/200968606-0dff043d-a8f2-40b0-9198-c0b86722323b.png)
+
+
+![image](https://user-images.githubusercontent.com/91167870/200968462-30b74128-a43a-4e03-921b-ebcf13d1fb52.png)
 
 
 Creamos una red (redsuda)
