@@ -52,13 +52,13 @@ docker inspect redsuda
  ![image](https://user-images.githubusercontent.com/91167870/202768154-dd0f539b-4e32-4999-8506-d2b30777e40f.png)
  
  -Tabla Articulos
- ![image](https://user-images.githubusercontent.com/91167870/202768269-65eeeff8-018f-4e4f-b3cf-8b92cfc86b4d.png)
+ ![image](https://user-images.githubusercontent.com/91167870/202768798-a23f2394-5b1f-4b52-89e2-2b4de78ddc8d.png)
  -Tabla Persona
- ![image](https://user-images.githubusercontent.com/91167870/202768344-42394c7e-4f06-4b02-8b43-efa0935e547b.png)
+ ![image](https://user-images.githubusercontent.com/91167870/202768837-3a470bee-634b-4e61-bbc9-a11246eca1ba.png)
  -Tabla Usuario
- ![image](https://user-images.githubusercontent.com/91167870/202768405-cb617f53-013f-47e9-8e57-9ff848f0463e.png)
+ ![image](https://user-images.githubusercontent.com/91167870/202768885-2aaee32a-d502-4862-8fe4-776f4eb22e63.png)
  -Tabla Venta
- ![image](https://user-images.githubusercontent.com/91167870/202768457-73b5c5a6-2cda-45ca-81ea-5e5a200c8316.png)
+![image](https://user-images.githubusercontent.com/91167870/202768941-2bd98305-9488-4cdf-a346-763d03240b07.png)
 
 
 
