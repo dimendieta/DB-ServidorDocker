@@ -49,7 +49,7 @@ docker inspect redsuda
 
                                              Creamos una Base de Datos con sus respectivas tablas (DB Tienda)
                                                              
- ![image](https://user-images.githubusercontent.com/91167870/202768154-dd0f539b-4e32-4999-8506-d2b30777e40f.png)
+ 
  
  -Tabla Articulos
  ![image](https://user-images.githubusercontent.com/91167870/202768798-a23f2394-5b1f-4b52-89e2-2b4de78ddc8d.png)
