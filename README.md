@@ -41,4 +41,7 @@ docker inspect redsuda
                                                              
 ![image](https://user-images.githubusercontent.com/91167870/200969303-bee7a27e-10c7-46c6-8b8d-a1d0d6ec6854.png)
 
+                                                             Creamos el Servidor
+![image](https://user-images.githubusercontent.com/91167870/202759130-d82038b0-e299-441a-90ab-993787528cf8.png)
+
 
